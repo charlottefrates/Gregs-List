@@ -14,10 +14,9 @@ header {
   top: 0;
   left: 0;
   right: 0;
-  padding: 10px;
 
-  background-color: #EEEEEE;
-  border-bottom: 1px solid #DDDDDD;
+  background-color: lightgrey;
+  border-bottom: 1px solid lightgrey;
 }
 
 .top-nav {
